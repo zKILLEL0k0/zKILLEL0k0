@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Servidores+Minecraft+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%9A%80;Criador+da+Nations+Network+%E2%9A%94%EF%B8%8F;Sempre+construindo+algo+novo...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Servidores+Minecraft+%F0%9F%8E%AE;Powered+by+Artificial+Intelligence+%F0%9F%A4%96;Criador+da+Nations+Network+%E2%9A%94%EF%B8%8F;Construindo+o+futuro+com+IA...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,6 +27,7 @@ foco:
   - Paineis web de gerenciamento (Node.js)
   - Administracao de VPS Linux
 projeto_principal: "Nations Network FullPvP"
+desenvolvimento: "Powered by AI — ideias humanas, execucao inteligente"
 stack: ["Java", "JavaScript", "Node.js", "HTML/CSS", "Linux", "PM2"]
 ```
 
@@ -46,6 +47,7 @@ stack: ["Java", "JavaScript", "Node.js", "HTML/CSS", "Linux", "PM2"]
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI_Powered-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 </div>
 
